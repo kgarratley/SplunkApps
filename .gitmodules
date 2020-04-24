@@ -1,0 +1,6 @@
+[submodule "BespokeApp"]
+	path = BespokeApp
+	url = https://github.com/kgarratley/BespokeApp.git
+[submodule "TA_x"]
+	path = TA_x
+	url = https://github.com/kgarratley/TA_x.git
